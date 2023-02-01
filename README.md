@@ -37,5 +37,5 @@ SunMoon Univ 4th grade.
 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=aoqk4&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=aoqk4&show_icons=true&theme=chartreuse-dark)
 
