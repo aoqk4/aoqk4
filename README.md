@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-SunMoon Univ 4th grade.
-
+SunMoon Univ. Searching Job?
 
 📫 I'm trying to love Rust, Python, Modern C++, Devops and AI tech..
 
