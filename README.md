@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-SunMoon Univ
-
-📫 I'm trying to love Rust, Python, Modern C++, Devops and AI tech..
+하고싶은거 하면서 살랍니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aoqk4)](https://solved.ac/aoqk4/)
 
