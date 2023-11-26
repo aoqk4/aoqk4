@@ -20,6 +20,5 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoqk4&hide=javascript,html,css&layout=compact)](https://github.com/aoqk4/github-readme-stats)
 
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aoqk4)](https://solved.ac/aoqk4/)
 
