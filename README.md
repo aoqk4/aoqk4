@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Rust / 서버 or 게임 서버 개발이 하고 싶어서 일 찾는 사람..
+## Rust / 서버 or 게임 서버 개발 목표
+
+DB + Chat Sever + gRPC 같은 간단한 사이드 프로젝트 제작 중
 
 [![aoqk4's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoqk4&count_private=true&show_icons=true)](https://github.com/aoqk4/github-readme-stats)
 
