@@ -1,4 +1,4 @@
-### aoqk4
+# aoqk4
 <!--
 **aoqk4/aoqk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-하고싶은거 하면서 살랍니다.
+### Rust / 서버 or 게임 서버 개발이 하고 싶어서 일 찾는 사람..
 
 [![aoqk4's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoqk4&count_private=true&show_icons=true)](https://github.com/aoqk4/github-readme-stats)
 
