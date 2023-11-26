@@ -16,5 +16,10 @@ Here are some ideas to get you started:
 
 하고싶은거 하면서 살랍니다.
 
+[![aoqk4's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoqk4&count_private=true&show_icons=true)](https://github.com/aoqk4/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoqk4&hide=javascript,html,css&layout=compact)](https://github.com/aoqk4/github-readme-stats)
+
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aoqk4)](https://solved.ac/aoqk4/)
 
