@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=aoqk4&row=2&column=3)](https://github.com/aoqk4/github-profile-trophy)
-
 [![aoqk4's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoqk4&count_private=true&show_icons=true)](https://github.com/aoqk4/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aoqk4&hide=javascript,html,css&layout=compact)](https://github.com/aoqk4/github-readme-stats)
